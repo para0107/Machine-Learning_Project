@@ -82,5 +82,14 @@
                 "content": "L'Hôpital's rule:\n\nlim (x→a) [f(x)/g(x)] = lim (x→a) [f'(x)/g'(x)], if \n\nlim (x→a) f(x) = 0 and lim (x→a) g(x) = 0."
             }
         ]
+    },
+    {
+        "timestamp": "2025-05-23T14:28:29.602844",
+        "conversation": [
+            {
+                "role": "system",
+                "content": "You are a helpful programming tutor."
+            }
+        ]
     }
 ]
