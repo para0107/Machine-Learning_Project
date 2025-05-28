@@ -1,0 +1,8 @@
+2025-05-28 11:57:54,741 INFO HTTP Request: POST http://localhost:1234/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 11:58:12,838 INFO HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 429 Too Many Requests"
+2025-05-28 11:58:12,841 INFO Retrying request to /completions in 0.387882 seconds
+2025-05-28 11:58:13,436 INFO HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 429 Too Many Requests"
+2025-05-28 11:58:13,438 INFO Retrying request to /completions in 0.815001 seconds
+2025-05-28 11:58:14,451 INFO HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 429 Too Many Requests"
+2025-05-28 11:58:14,453 WARNING Judge skipped – rate limit: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-05-28 11:58:14,455 INFO HTTP Request: POST http://testserver/rag_chat "HTTP/1.1 200 OK"
