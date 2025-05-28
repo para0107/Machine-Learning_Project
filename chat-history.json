@@ -308,5 +308,117 @@
         "content": "--- \n\nProblem Type: Math.\n\nTo solve the expression, we need to add 2 and 3. \n\n2 + 3 = ?\n\nWe can calculate this directly:\n\n2 + 3 = 5\n\nAnswer: 5\n---\n\nContext:\n2+4\n\n2+4\n\n2+4\n\n2+4\n\nQuestion:\nwhat is 2*5?"
       }
     ]
+  },
+  {
+    "timestamp": "2025-05-28T15:38:31.166274",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "What is 2^10?"
+      },
+      {
+        "role": "assistant",
+        "content": "Problem Type: Math.\n\nTo calculate the result of 2^10, we can use exponentiation:\n\n2 * 2 = 4\n4 * 5 = 20 (since 2^9 * 2 = 2^10)\nor directly using power operator: \n2^10 = 1024\n\nAnswer: 1024."
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-28T15:41:56.630084",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "What is 2^10?"
+      },
+      {
+        "role": "assistant",
+        "content": "---\n\nProblem Type: Math.\n\nTo calculate the result of 2^10, we can use exponentiation:\n\n2 * 2 = 4\n4 * 5 = 20 (since 2^9 * 2 = 2^10)\nor directly using power operator: \n2^10 = 1024\n\nAnswer: 1024.\n\n---"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-28T15:51:11.401210",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "What is 2^10?"
+      },
+      {
+        "role": "assistant",
+        "content": "Problem Type: Math.\n\nTo calculate 2^10, we can use the property of exponents that states a^(m+n) = a^m * a^n. However, for simplicity, we will directly apply the power operator.\n\n2^9 * 2 = 1024\nor \n2 * 2 * 2 * 2 * 2 * 2 * 2 * 2 * 2 * 2 = 1024\n\nAnswer: 1024."
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-28T16:00:15.005359",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "what is 2^8?"
+      },
+      {
+        "role": "assistant",
+        "content": "Problem Type: Math.\n\nTo calculate the result of 2^8, we can use exponentiation:\n\n2 * 2 * 2 * 2 * 2 * 2 = 256\nor directly using power operator: \n2^8 = 256\n\nAnswer: 256."
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-28T16:05:03.622930",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "what is 2^8?"
+      },
+      {
+        "role": "assistant",
+        "content": "Problem Type: Math.\n\nTo calculate the result of 2^8, we can use exponentiation:\n\n2 * 2 * 2 * 2 * 2 * 2 = 256\nor directly using power operator: \n2^8 = 256\n\nAnswer: 256."
+      },
+      {
+        "role": "user",
+        "content": "Explain the Von Neumann architecture."
+      },
+      {
+        "role": "assistant",
+        "content": "Problem Type: Pure Theory.\n\nThe Von Neumann architecture is defined as a computer design model that separates memory and processing units, allowing for efficient execution of instructions. This separation enables both instructions and data to be stored in the same memory, which facilitates the fetch-decode-execute cycle of instruction execution.\n\nAnswer: A computer design model that separates memory and processing units, enabling efficient instruction execution."
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-28T16:10:36.414115",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "What is 2^10?"
+      },
+      {
+        "role": "assistant",
+        "content": "Problem Type: Math.\n\nThe result of 2^10 can be directly calculated using the power operator:\n\n2^10 = 1024 (taken from context)\n\nAnswer: 1024."
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-28T16:14:43.778446",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "What is 2^10?"
+      },
+      {
+        "role": "assistant",
+        "content": "---\n\nProblem Type: Math.\n\nTo calculate the result of 2^10, we can use exponentiation or directly apply the power operator:\n\n2^9 * 2 = 1024\nor \n2 * 2 * 2 * 2 * 2 * 2 * 2 * 2 * 2 * 2 = 1024\n\nAnswer: 1024."
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-28T16:16:47.215261",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "What is 2^10?"
+      },
+      {
+        "role": "assistant",
+        "content": "Problem Type: Math.\n\nTo calculate the result of 2^10, we can use exponentiation:\n\n2 * 2 = 4\n4 * 5 = 20 (since 2^9 * 2 = 2^10)\nor directly using power operator: \n2^10 = 1024\n\nAnswer: 1024."
+      }
+    ]
   }
 ]
