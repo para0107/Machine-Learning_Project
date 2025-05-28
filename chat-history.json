@@ -420,5 +420,143 @@
         "content": "Problem Type: Math.\n\nTo calculate the result of 2^10, we can use exponentiation:\n\n2 * 2 = 4\n4 * 5 = 20 (since 2^9 * 2 = 2^10)\nor directly using power operator: \n2^10 = 1024\n\nAnswer: 1024."
       }
     ]
+  },
+  {
+    "timestamp": "2025-05-28T16:33:12.141400",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "What is 2^10?"
+      },
+      {
+        "role": "assistant",
+        "content": "Problem Type: Math.\n\nTo calculate the result of 2^10, we can use exponentiation:\n\n2 * 2 = 4\n4 * 5 = 20 (since 2^9 * 2 = 2^10)\nor directly using power operator: \n2^10 = 1024\n\nAnswer: 1024."
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-28T16:38:33.159351",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "Explain the Von Neumann architecture."
+      },
+      {
+        "role": "assistant",
+        "content": "---\n\nProblem Type: Informatics.\n\nThe Von Neumann architecture is based on the separation of memory and processing units, allowing instructions and data to be stored in the same memory. This design model includes a fetch-decode-execute cycle, where the processor fetches an instruction from memory, decodes it, and then executes it. The key components of a CPU in Von Neumann architecture are the control unit, arithmetic logic unit (ALU), registers, and cache.\n\nAnswer: The Von Neumann architecture is a computer design model that separates memory and processing units, allowing for efficient execution of instructions."
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-28T17:57:28.092696",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "What is 2^10?"
+      },
+      {
+        "role": "assistant",
+        "content": "Problem Type: Math.\n\nTo calculate the result of 2^10, we can use exponentiation:\n\n2 * 2 = 4\n4 * 5 = 20 (since 2^9 * 2 = 2^10)\nor directly using power operator: \n2^10 = 1024\n\nAnswer: 1024."
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-28T17:59:10.045599",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "what is 2^10"
+      },
+      {
+        "role": "assistant",
+        "content": "Problem Type: Math.\n\nTo calculate the result of 2^10, we can use exponentiation:\n\n2 * 2 = 4\n4 * 5 = 20 (since 2^9 * 2 = 2^10)\nor directly using power operator: \n2^10 = 1024\n\nAnswer: 1024."
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-28T18:02:14.500179",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "what is 2^10"
+      },
+      {
+        "role": "assistant",
+        "content": "Problem Type: Math.\n\nTo calculate the result of 2^10, we can use exponentiation:\n\n2 * 2 = 4\n4 * 5 = 20 (since 2^9 * 2 = 2^10)\nor directly using power operator: \n2^10 = 1024\n\nAnswer: 1024."
+      },
+      {
+        "role": "user",
+        "content": "\"What is JavaScript?"
+      },
+      {
+        "role": "assistant",
+        "content": "Problem Type: Informatics.\n\nJavaScript is a high-level, dynamic, and interpreted programming language used for building dynamic websites and web applications. It supports both procedural and object-oriented programming paradigms.\n\nJavaScript data types include primitive types such as numbers, strings, booleans, null, and undefined, as well as complex types like objects and arrays.\n\nAnswer: A programming language primarily used for client-side scripting on the web."
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-28T18:08:49.667801",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "What is 2^10?"
+      },
+      {
+        "role": "assistant",
+        "content": "Problem Type: Math.\n\nTo calculate the result of 2^10, we can use exponentiation:\n\n2 * 2 = 4\n4 * 5 = 20 (since 2^9 * 2 = 2^10)\nor directly using power operator: \n2^10 = 1024\n\nAnswer: 1024."
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-28T18:10:04.126017",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "What is 2^10?"
+      },
+      {
+        "role": "assistant",
+        "content": "Problem Type: Math.\n\nTo calculate the result of 2^10, we can use exponentiation:\n\n2 * 2 = 4\n4 * 5 = 20 (since 2^9 * 2 = 2^10)\nor directly using power operator: \n2^10 = 1024\n\nAnswer: 1024."
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-28T18:11:12.676722",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "What is 2^10?"
+      },
+      {
+        "role": "assistant",
+        "content": "Problem Type: Math.\n\nTo calculate the result of 2^10, we can use exponentiation or directly apply the power operator:\n\n2 * 2 = 4\n4 * 5 = 20 (since 2^9 * 2 = 2^10)\nor \n2 * 2 * 2 * 2 * 2 * 2 * 2 * 2 * 2 * 2 = 1024\n\nAnswer: 1024."
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-28T18:14:34.947760",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "What is 2^10?"
+      },
+      {
+        "role": "assistant",
+        "content": "Problem Type: Math.\n\nThe result of 2^10 can be directly calculated using the power operator:\n\n2^9 * 2 = 1024\nor \n2 * 2 * 2 * 2 * 2 * 2 * 2 * 2 * 2 * 2 = 1024\n\nAnswer: 1024."
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-05-28T18:15:33.509498",
+    "conversation": [
+      {
+        "role": "user",
+        "content": "What is the computer science?"
+      },
+      {
+        "role": "assistant",
+        "content": "---\n\nProblem Type: Informatics.\n\nComputer Science is a field of study that focuses on the theory, design, development, testing, and maintenance of computer systems and applications. It encompasses various topics such as algorithms, data structures, software engineering, computer networks, databases, human-computer interaction, and artificial intelligence.\n\nIn essence, Computer Science deals with the practical aspects of working with computers to solve real-world problems, develop new technologies, and improve existing ones.\n\nAnswer: Computer Science is a field that focuses on the design, development, and maintenance of computer systems and applications."
+      }
+    ]
   }
 ]
