@@ -2,6 +2,7 @@
 .env
 *.env
 llm.env
+LLM_Integration.ipynb
 
 # Python
 __pycache__/
