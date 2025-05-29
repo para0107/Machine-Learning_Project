@@ -1,0 +1,65 @@
+# Environment variables
+.env
+*.env
+llm.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Data files
+chat-history.json
+chat-history.json.tmp
+results/
+*.db
+*.sqlite
+
+# Vector stores
+**/faiss_index/
+**/faiss_index
+
+# Logs
+logs/
+*.log
+judge.log
+
+# Virtual Environment
+venv/
+ENV/
+
+# Model files
+*.pt
+*.pth
+*.bin
+*.h5
+*.hdf5
+*.model
+*.onnx
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
