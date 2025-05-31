@@ -5,6 +5,11 @@ This system delivers answers **grounded in real data**, not just language model 
 
 ---
 
+- 🔙 [Backend: RAG Chat API](https://github.com/para0107/enhanced-llm-with-rag)
+- 🖼️ [Frontend: Chat Interface](https://github.com/para0107/rag-llm-frontend)
+
+---
+
 ## 🚀 What Is This?
 
 This project is a **multi-dataset, retrieval-augmented chatbot and auto-grader**.  
